@@ -1,0 +1,15 @@
+D:\windows form\perfect\perfect\bin\Debug\net6.0\perfect.exe
+D:\windows form\perfect\perfect\bin\Debug\net6.0\perfect.deps.json
+D:\windows form\perfect\perfect\bin\Debug\net6.0\perfect.runtimeconfig.json
+D:\windows form\perfect\perfect\bin\Debug\net6.0\perfect.dll
+D:\windows form\perfect\perfect\bin\Debug\net6.0\perfect.pdb
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.csproj.AssemblyReference.cache
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.AssemblyInfoInputs.cache
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.AssemblyInfo.cs
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.csproj.CoreCompileInputs.cache
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.dll
+D:\windows form\perfect\perfect\obj\Debug\net6.0\refint\perfect.dll
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.pdb
+D:\windows form\perfect\perfect\obj\Debug\net6.0\perfect.genruntimeconfig.cache
+D:\windows form\perfect\perfect\obj\Debug\net6.0\ref\perfect.dll

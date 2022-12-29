@@ -1,0 +1,15 @@
+D:\windows form\prrime\prrime\bin\Debug\net6.0\prrime.exe
+D:\windows form\prrime\prrime\bin\Debug\net6.0\prrime.deps.json
+D:\windows form\prrime\prrime\bin\Debug\net6.0\prrime.runtimeconfig.json
+D:\windows form\prrime\prrime\bin\Debug\net6.0\prrime.dll
+D:\windows form\prrime\prrime\bin\Debug\net6.0\prrime.pdb
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.csproj.AssemblyReference.cache
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.AssemblyInfoInputs.cache
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.AssemblyInfo.cs
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.csproj.CoreCompileInputs.cache
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.dll
+D:\windows form\prrime\prrime\obj\Debug\net6.0\refint\prrime.dll
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.pdb
+D:\windows form\prrime\prrime\obj\Debug\net6.0\prrime.genruntimeconfig.cache
+D:\windows form\prrime\prrime\obj\Debug\net6.0\ref\prrime.dll
